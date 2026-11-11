@@ -1,0 +1,26 @@
+{
+    "name":  "Bang Bang - The Bounty Hunter",
+    "developer":  "ES Developer",
+    "version":  "1.2.3",
+    "version_date":  "2026-11-10",
+    "description":  "Jogo de tiro ambientado no Velho Oeste, desenvolvido para explorar recursos graficos, animacoes RGB565 e audio da ES32Lab.",
+    "manifest_url":  "https://github.com/ESDeveloperBR/bang_bang_game/refs/heads/main/dist/manifest.json",
+    "uses_wifi":  false,
+    "keywords":  [
+                     "ES32Lab",
+                     "ESP32",
+                     "Bang Bang",
+                     "Jogo",
+                     "Arcade",
+                     "Faroeste",
+                     "RGB565",
+                     "Wi-Fi"
+                 ],
+    "thumbnail_url":  "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-thumb.jpg",
+    "website":  "https://www.esdeveloper.com.br/",
+    "repository":  "ESDeveloperBR/bang_bang_game",
+    "firmware_url":  "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang.bin",
+    "firmware_sha256":  "af91c7801a6ac353506832d83e0b320d06dd1e23e26b2606e9076e389524ac4c",
+    "full_url":  "https://raw.githubusercontent.com/ESDeveloperBR/bang_bang_game/main/dist/es32lab_bang_bang-full.bin",
+    "full_sha256":  "e091b91bf5a412d6e15fad2f6a5637be77b9518c2fadacdecf7f337fad8bc971"
+}
