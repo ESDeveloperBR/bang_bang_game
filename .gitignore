@@ -6,3 +6,5 @@
 
 # Permitir o proprio .gitignore
 !/.gitignore
+
+!/README.MD
